@@ -11,4 +11,5 @@ class MainActivity : AppCompatActivity() {
 
 //Anpass app to swedish and english
     //Anpassa layout-xml, kotlin kod, bilder
+    //Added strings.xml greetings text
 }
